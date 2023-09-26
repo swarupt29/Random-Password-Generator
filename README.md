@@ -5,7 +5,7 @@ The Random Password Generator is a simple Java application that allows you to ge
 
 # Screenshot
 
-![Alt text](https://github.com/swarupt29/Random-Password-Generator/assets/118194258/2951e592-caa6-4889-aac0-db1576a20e29)
+![Alt text](https://github.com/swarupt29/Random-Password-Generator/assets/118194258/f1c78a95-0b9e-4f3b-a50e-7f389eb15db5)
 ## Table of Contents
 
 - Features
