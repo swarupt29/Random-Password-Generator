@@ -1,5 +1,5 @@
 
-# Random Password Generator
+# <span style="color:blue">Random Password Generator</span>
 
 The Random Password Generator is a simple Java application that allows you to generate random passwords with customizable criteria. It provides you with strong and secure passwords for various purposes.
 
@@ -39,21 +39,51 @@ The Random Password Generator is a simple Java application that allows you to ge
 
 ## Installation
 
-1. Clone this repository or download the source code
+1. **Clone this repository or download the source code**
 
 ```bash
   git clone url
 ```
-2. Compile the Java source code to create the executable JAR file
+2. **Compile the Java source code to create the executable JAR file**
 
 ```bash
   javac RandomPasswordGeneratorGui.java
 ```
-3. Run the application.
+3. **Run the application**
 
 ``` bash
   java RandomPasswordGeneratorGui
 ```
+
+## Installation with Eclipse
+
+Follow these steps to set up and run the Random Password Generator project using Eclipse:
+
+1. **Clone or Download the Repository**: 
+   - Clone this repository using `git clone <[repository-url](https://github.com/swarupt29/Random-Password-Generator.git)>` or download the source code as a ZIP archive and extract it.
+
+2. **Open Eclipse**:
+   - Launch Eclipse if it's not already open.
+
+3. **Import the Project**:
+   - Go to `File > Open Projects from File System...` in Eclipse.
+
+4. **Select the Project Folder**:
+   - Click on "Directory" and navigate to the folder where you cloned or extracted the project.
+
+5. **Import as a General Project**:
+   - Eclipse may recognize it as a general project. If it does, select the project and click "Finish."
+
+6. **Set Up the Java Environment**:
+   - Ensure you have the Java Development Kit (JDK) and Java Runtime Environment (JRE) properly configured in your Eclipse workspace.
+
+7. **Run the Application**:
+   - Locate the `RandomPasswordGeneratorGui.java` file in the project.
+   - Right-click on it and select `Run As > Java Application`.
+
+8. **Use the Random Password Generator**:
+   - The application window will open, allowing you to customize and generate random passwords.
+
 
 # Usage
 1. Launch the Random Password Generator application.
@@ -83,4 +113,3 @@ Contributions to this project are welcome! If you find a bug or have an enhancem
 
 # License
 This project is not licensed, which means you are free to use it as you see fit. You can use, modify, and distribute the software without any specific licensing restrictions.
-
